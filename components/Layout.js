@@ -16,7 +16,8 @@ const sora = Sora({
 
 const Layout = ({children}) => {
   return ( 
-  <><Head>
+  <>
+  <Head>
       <title> Portfolio Sylvain TIASSOU </title>
       <meta name='description' content='portfolio de sylvain tiassou' />
       <link rel='icon' href='/tkms1-removebg-preview.png' type='image/x-icon' />
