@@ -43,7 +43,7 @@ const Work = () => {
           initial='hidden'
           animate='show'
           exit='hidden'
-          className='w-full xl:max-w-[65%] xl:mt-20'>
+          className='w-full xl:max-w-[65%]  xl:mt-18'>
              <WorkSlider />
           </motion.div>
          
