@@ -28,7 +28,7 @@ const Services = () => {
              animate='show'
              exit='hidden'
             className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
-              Mes services variés, dont développement web et mobile, conception
+              Mes services variés, dont Analyse de données, creation des models de ML, développement web et mobile, conception
                d'interfaces, création d'API, intégration de technologies émergentes, 
                optimisation des performances, sécurité informatique,
                consultation, formation, et maintenance des applications.

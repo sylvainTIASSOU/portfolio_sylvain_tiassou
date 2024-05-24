@@ -88,6 +88,17 @@ const aboutData = [
   {
     title: 'certificat',
     info: [
+      
+
+      {
+        title: 'Introduction à l\'apprentissage automatique',
+        stage: '2024 - 2024',
+      },
+
+      {
+        title: "Apprentissage automatique intermédiaire",
+        stage: '2024 - 2024',
+      },
       {
         title: 'Word - Excel - PowerPoint',
         stage: '2015 - 2016',
@@ -109,19 +120,13 @@ const aboutData = [
         title: 'Web Mobile ',
         stage: '2020-2023',
       },
-      {
-        title: 'Analyse de donnée ',
-        stage: '2020-2023',
-      },
+     
     ],
   },
   {
     title: 'credentials',
     info: [
-      {
-        title: 'Web Development - UCAO-UUT',
-        stage: '2020-2023',
-      },
+    
       {
         title: 'Computer Science - UCAO-UUT',
         stage: '2020-2023',
@@ -160,9 +165,6 @@ const [index, setIndex] = useState(0)
           <h2 className=" relative text-[25px] leading-tight md:text-[44px] md:leading-[1.1] mb-3 font-semibold; ">
             Des <span className="text-accent">histoires</span> captivantes donnent naissance à de magnifiques designs
           </h2>
-
-          <p className=" font-extrabold text-white relative max-w-[500px] mx-auto md:mx-0 mb-6 md:mb-12 px-2 md:px-0">
-          Il y a 4 mois, j'ai commencé à travailler en freelance en tant que développeur.</p>
 
         </div>
         <motion.div

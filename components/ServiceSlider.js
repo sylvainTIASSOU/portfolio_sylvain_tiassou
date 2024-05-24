@@ -19,9 +19,19 @@ import {
 // data
 const serviceData = [
   {
+    icon: <RxDesktop />,
+    title: 'Analyse de données avec python',
+    description: 'Extraction, nettoyage, et transformation de données complexes provenant de sources variées.',
+  },
+  {
+    icon: <RxReader />,
+    title: 'creation des models de ML',
+    description: "Sélection et mise en œuvre d'algorithmes de machine learning pour la classification, la régression, le clustering, et la détection d'anomalies.",
+  },
+  {
     icon: <RxCrop />,
-    title: 'Développement web',
-    description: 'Création de sites web dynamiques, applications web, ou plateformes e-commerce.',
+    title: 'visualisations des données',
+    description: "Création de graphiques et de visualisations interactives pour des présentations percutantes et des rapports analytiques.",
   },
   {
     icon: <RxPencil2 />,
@@ -50,17 +60,6 @@ const serviceData = [
     description: 'Utilisation de technologies émergentes comme l\'intelligence artificielle, la réalité virtuelle, ou l\'internet des objets.',
   },
 
-  {
-    icon: <RxRocket />,
-    title: 'Optimisation des performances',
-    description: 'Amélioration des performances des applications et des sites web.',
-  },
-
-  {
-    icon: <RxRocket />,
-    title: 'SEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-  },
 ];
 
 const ServiceSlider = () => {

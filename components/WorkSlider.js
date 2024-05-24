@@ -12,6 +12,11 @@ const workSlides = {
     {
       images: [
         {
+          title: 'projets d\'analyse de données',
+          path: '/data-analyse-phedone.09b17d9.2509164234f3848ffd0c3a15383970ea.jpeg',
+          url: 'https://github.com/orgs/Projets-d-analyse-de-donnees/repositories'
+        },
+        {
           title: 'Nye Dowola',
           path: '/logo1.svg',
           url: 'https://nye-dowola.vercel.app/'
